@@ -1,0 +1,23 @@
+cricket-tournament-analyzer/
+
+├── src/
+│   ├── main.py
+│   ├── nrr.py
+│   ├── simulator.py
+│   ├── analytics.py
+│   ├── models.py
+│   └── config.py
+│
+├── data/
+│   └── sample_points_table.csv
+│
+├── tests/
+│   └── test_nrr.py
+│
+├── .gitignore
+├── requirements.txt
+├── README.md
+├── INSTALL.md
+├── setup.py
+├── LICENSE
+└── run.sh
